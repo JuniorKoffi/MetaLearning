@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Classe Room.unity
+    guid: afdcb113ffd5a4353ad88f0dd03743af
+  - enabled: 1
+    path: Assets/Scenes/welcome.unity
+    guid: bdea8a4689ce9cf4187f55e6a9673322
+  - enabled: 1
+    path: Assets/Scenes/Register Student.unity
+    guid: b06ca6fe6ae2e6747a59dd15bcda96d1
+  - enabled: 1
+    path: Assets/Scenes/Login Student.unity
+    guid: dbc3db9d50ed9ba47b0a51246b3b424d
+  - enabled: 1
+    path: Assets/Scenes/Login Founder.unity
+    guid: 1b171ea9985c46444be127e540b5d31a
+  - enabled: 1
+    path: Assets/Scenes/Login Learner.unity
+    guid: 76fb5cb43c2ae5b428dd78f6afe0eda0
+  - enabled: 1
+    path: Assets/Scenes/Register Founder.unity
+    guid: ed8582374e6943445b9613293891b6ac
+  - enabled: 1
+    path: Assets/Scenes/Register Learner.unity
+    guid: 95e13b6abb63aa64496934b3d0ac3c64
+  - enabled: 1
+    path: Assets/Scenes/Choice of establishment.unity
+    guid: 642670de4fb74d04f9be4e91502d674c
+  - enabled: 1
+    path: Assets/Scenes/College registration form.unity
+    guid: b075bb4796db8cf41a5f89c31ab3407d
+  - enabled: 1
+    path: Assets/Scenes/choice of establishment or driving school.unity
+    guid: 83511b76fc5adbb4994872f6bcdbd4af
+  - enabled: 1
+    path: Assets/Scenes/Driving school registration form.unity
+    guid: 0247dedb349d0404eb5ec744778d682d
+  - enabled: 1
+    path: Assets/Scenes/choice of driving school.unity
+    guid: 6fa8adb086ac7354683915e3d25f7d71
+  - enabled: 1
+    path: Assets/Scenes/Bureau.unity
+    guid: c61ca0d142dfb1444bcb9930fab8880f
+  - enabled: 1
+    path: Assets/Scenes/Classe Room Learner.unity
+    guid: 07ffe695142367c4595a24db8f02d08c
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8fccb80e6c9a84389a75f2c1ed4d786d, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d3134b6f939114be9b8d6dbeff42d453, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 2b485d7676a7d4b3eba3a764bd60d013, type: 2}

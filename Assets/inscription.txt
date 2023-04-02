@@ -1,0 +1,12 @@
+Nom : Koffi
+Prénom : Junior
+Date de naissance : 09/042005
+Adresse : VITIB
+Code postal : B 1234
+Ville : Bassam
+Téléphone : 0143174734
+Nom du parent : Kouadio
+Téléphone du parent : 0708433522
+Niveau demandé : 3e
+Année scolaire : 2023-2024
+
