@@ -1,20 +1,30 @@
-[api-updater (non-obsolete-error-filter)] 02/04/2023 21:21:43 : Starting C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 07/05/2023 16:01:41 : Starting C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
 [api-updater (non-obsolete-error-filter)] 
 ----------------------------------
-jit/startup time      : 1134,7469ms
-moved types parse time: 62ms
+jit/startup time      : 1375,0806ms
+moved types parse time: 63ms
 candidates parse time : 1ms
-C# parse time         : 362ms
-candidates check time : 46ms
+C# parse time         : 357ms
+candidates check time : 47ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 07/05/2023 16:11:42 : Starting C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 104,9397ms
+moved types parse time: 69ms
+candidates parse time : 2ms
+C# parse time         : 367ms
+candidates check time : 49ms
 console write time    : 0ms
 
-[api-updater (non-obsolete-error-filter)] 02/04/2023 21:22:38 : Starting C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 07/05/2023 16:22:07 : Starting C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
 [api-updater (non-obsolete-error-filter)] 
 ----------------------------------
-jit/startup time      : 80,9527ms
-moved types parse time: 64ms
-candidates parse time : 1ms
-C# parse time         : 266ms
-candidates check time : 86ms
-console write time    : 1ms
+jit/startup time      : 101,9423ms
+moved types parse time: 58ms
+candidates parse time : 2ms
+C# parse time         : 243ms
+candidates check time : 33ms
+console write time    : 0ms
 

@@ -5,51 +5,45 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/Classe Room.unity
-    guid: afdcb113ffd5a4353ad88f0dd03743af
+    path: Assets/Scenes/Room of choice.unity
+    guid: 7611cafd3fcdc52419fd3be48979030b
   - enabled: 1
-    path: Assets/Scenes/welcome.unity
-    guid: bdea8a4689ce9cf4187f55e6a9673322
+    path: Assets/Scenes/Room of connexion.unity
+    guid: 942750c663c9ffe40bc9f40907de4f2e
   - enabled: 1
-    path: Assets/Scenes/Register Student.unity
-    guid: b06ca6fe6ae2e6747a59dd15bcda96d1
+    path: Assets/Scenes/Room of inscription.unity
+    guid: 1c80f8c859e0ae74d8d81e7ca990610b
   - enabled: 1
-    path: Assets/Scenes/Login Student.unity
-    guid: dbc3db9d50ed9ba47b0a51246b3b424d
+    path: Assets/Scenes/Selection room of the establishment.unity
+    guid: acd4c2e5434b1ac4f98440e64ff6e938
   - enabled: 1
-    path: Assets/Scenes/Login Founder.unity
-    guid: 1b171ea9985c46444be127e540b5d31a
+    path: Assets/Scenes/Selection room of the driving school.unity
+    guid: db6e79117ef78384a98bef3af7733646
   - enabled: 1
-    path: Assets/Scenes/Login Learner.unity
-    guid: 76fb5cb43c2ae5b428dd78f6afe0eda0
-  - enabled: 1
-    path: Assets/Scenes/Register Founder.unity
-    guid: ed8582374e6943445b9613293891b6ac
-  - enabled: 1
-    path: Assets/Scenes/Register Learner.unity
-    guid: 95e13b6abb63aa64496934b3d0ac3c64
-  - enabled: 1
-    path: Assets/Scenes/Choice of establishment.unity
-    guid: 642670de4fb74d04f9be4e91502d674c
-  - enabled: 1
-    path: Assets/Scenes/College registration form.unity
-    guid: b075bb4796db8cf41a5f89c31ab3407d
-  - enabled: 1
-    path: Assets/Scenes/choice of establishment or driving school.unity
-    guid: 83511b76fc5adbb4994872f6bcdbd4af
+    path: Assets/Scenes/Establishment registration form.unity
+    guid: ae488ba506ff3244a8a52e8b7fb283e6
   - enabled: 1
     path: Assets/Scenes/Driving school registration form.unity
-    guid: 0247dedb349d0404eb5ec744778d682d
+    guid: 226b8ef6805282546a4032cf2af1c9ce
   - enabled: 1
-    path: Assets/Scenes/choice of driving school.unity
-    guid: 6fa8adb086ac7354683915e3d25f7d71
+    path: Assets/Scenes/Home.unity
+    guid: c7cd0307bc9864c4f86bbb55f07757cf
   - enabled: 1
-    path: Assets/Scenes/Bureau.unity
-    guid: c61ca0d142dfb1444bcb9930fab8880f
+    path: Assets/Scenes/Laboratory.unity
+    guid: dd5af69cfc6aae249aaed69440cfd183
   - enabled: 1
-    path: Assets/Scenes/Classe Room Learner.unity
-    guid: 07ffe695142367c4595a24db8f02d08c
+    path: Assets/Scenes/payment room.unity
+    guid: 960071393f1282049a9a79739aa5b19f
+  - enabled: 1
+    path: Assets/Scenes/founder's room.unity
+    guid: 668c81b9cff56f247a01218300897875
+  - enabled: 1
+    path: Assets/Scenes/Class room.unity
+    guid: 1e840d93b1c92473f83d910b16b2f458
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 8fccb80e6c9a84389a75f2c1ed4d786d, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d3134b6f939114be9b8d6dbeff42d453, type: 2}
